@@ -1,4 +1,4 @@
-# projeto-pokedex
+# Pokédex
 
 Esse projeto é uma Pokédex feita em um evento chamado Dev em Dobro, utilizando as linguagens de marcação, estilização e programação como: HTML, CSS e JavaScript. (BR)
 
