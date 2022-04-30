@@ -14,12 +14,12 @@ This project is a Pokédex made in an event called Dev em Dobro, using markup, s
 
 ### Cores
 
-- Branco: #f3702a;
-- Cinza: #FCC719;
+- Laranja: #f3702a;
+- Amarelo: #FCC719;
 - Azul: #3dbef3;
-- Vermelho: #97d0b3;
-- Cinza 2: #6f5f96;
-- Cinza 3: #feb600;
+- Verde: #97d0b3;
+- Roxo: #6f5f96;
+- Laranja Queimado: #feb600;
 
 ## Referências
 - [w3schools lista de tags](https://www.w3schools.com/tags/default.asp)
